@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](LICENSE.txt)](LICENSE.txt)
 
 This repository contains the codes for the term paper of the seminar "LLM-Safety" where we propose a refusal aware finetuning method to preserve refusal awareness of the finetuned models.
 
